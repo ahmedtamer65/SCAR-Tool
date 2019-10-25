@@ -17,3 +17,7 @@
 6-chmod +x SCAR.sh 
 
 7-./SCAR.sh
+ 
+ 
+ 
+ credit to OOMD_NOOR
