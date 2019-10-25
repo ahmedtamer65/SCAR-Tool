@@ -10,6 +10,10 @@
 
 3-pkg install git 
 
-4-git clone
+4-git clone https://github.com/ahmedtamer65/SCAR-Tool
 
-5-
+5-bash install.sh
+
+6-chmod +x SCAR.sh 
+
+7-./SCAR.sh
